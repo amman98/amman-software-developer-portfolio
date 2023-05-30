@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, useLocation } from 'react-router-dom'
 import './style.css';
 
-export default function Navigation(props) {
+export default function Navigation() {
     const location = useLocation();
 
     return (
