@@ -5,7 +5,7 @@ import profilePicture from '../../images/ProfilePhoto.jpeg';
 export default function About() {
     return (
         <div className="main-section">
-            <h2>About</h2>
+            <h2>About me</h2>
             <img className="profile-image" src={profilePicture} alt="profile picture" />
             <p>Amman Nega graduated with a Bachelor's degree in Computer Science & Software Engineering from the University of Washington. He then went on to make use of the skills he gained at school, working as a Software Engineer at Tata Consultancy Services. During his time there, he worked to train an AI model to identify damages in insulators in the Southern California area.</p> 
             
