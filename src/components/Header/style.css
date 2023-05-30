@@ -5,3 +5,7 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
+h1 {
+    margin-left: 5rem;
+}
