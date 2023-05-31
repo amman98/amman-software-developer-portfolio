@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amman-software-developer-portfolio/static/css/main.734a3171.css",
+    "main.js": "/amman-software-developer-portfolio/static/js/main.998c1540.js",
+    "static/media/ProfilePhoto.jpeg": "/amman-software-developer-portfolio/static/media/ProfilePhoto.a69cd54b4bfb096ef071.jpeg",
+    "static/media/Random-Word-Calendar.jpeg": "/amman-software-developer-portfolio/static/media/Random-Word-Calendar.3062ed825bdab63634a9.jpeg",
+    "static/media/Wrestling-Quiz.png": "/amman-software-developer-portfolio/static/media/Wrestling-Quiz.2e754546d594ed91e929.png",
+    "static/media/Tech-Blog.jpeg": "/amman-software-developer-portfolio/static/media/Tech-Blog.59a32c0bb8a4ecdc8e7a.jpeg",
+    "static/media/Full-Stack-Resume.pdf": "/amman-software-developer-portfolio/static/media/Full-Stack-Resume.a04c3cae9134df003c60.pdf",
+    "static/media/Bite-Buddies.jpeg": "/amman-software-developer-portfolio/static/media/Bite-Buddies.2b9a28339b25aa93daf7.jpeg",
+    "static/media/twitter-logo.svg": "/amman-software-developer-portfolio/static/media/twitter-logo.489d38fdb648545cd50e0679629b9348.svg",
+    "static/media/linked-in-logo.svg": "/amman-software-developer-portfolio/static/media/linked-in-logo.c11a51dc5395675c338ae20f84fcfa75.svg",
+    "static/media/github-logo.svg": "/amman-software-developer-portfolio/static/media/github-logo.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "index.html": "/amman-software-developer-portfolio/index.html",
+    "main.734a3171.css.map": "/amman-software-developer-portfolio/static/css/main.734a3171.css.map",
+    "main.998c1540.js.map": "/amman-software-developer-portfolio/static/js/main.998c1540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734a3171.css",
+    "static/js/main.998c1540.js"
+  ]
+}

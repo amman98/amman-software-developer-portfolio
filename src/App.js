@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -13,9 +13,10 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<About/>} />
+        <Route path='/amman-software-developer-portfolio' element={<Navigate to="/" />} />
         <Route path="/portfolio" element={<Portfolio/>} />
         <Route path="/contact" element={<Contact/>} />
-        <Route path="/resume" element={<Resume />}/>
+        <Route path="/resume" element={<Resume />} />
       </Routes>
       <Footer />
     </Router>
