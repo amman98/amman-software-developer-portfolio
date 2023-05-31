@@ -4,7 +4,7 @@ import './style.css';
 
 export default function Project(props) {
     return (
-        <div className='project'>
+        <div className={`project ${props.identifier}`}>
             <img title="Bite Buddies" src={props.card} alt="project" />
             <div className='image-text'>
                 <a className='deploy-link' target="_blank" href={props.deploy}>{props.name}</a>
