@@ -9,6 +9,7 @@ export default function Contact() {
             setMessage(e.target.name + " is required.");
         }
         else if(e.target.value.trim() !== '' && e.target.name === 'Email') {
+            // eslint-disable-next-line
             const regex = /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/;
             if(regex.test(e.target.value.trim())) {
                 setMessage("");
