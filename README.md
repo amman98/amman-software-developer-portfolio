@@ -6,7 +6,7 @@ This website lets you view my portfolio as a Software Engineer. It has an About 
 
 ## Usage
 
-Click the following link to view the portfolio: 
+Click the following link to view the portfolio: https://velvety-dodol-5b058f.netlify.app/
 
 ## License
 
