@@ -7,8 +7,8 @@ export default function Project(props) {
         <div className={`project ${props.identifier}`}>
             <img title="Bite Buddies" src={props.card} alt="project" />
             <div className='image-text'>
-                <a className='deploy-link' target="_blank" href={props.deploy}>{props.name}</a>
-                <a className='repo-link' target="_blank" href={props.repo}>
+                <a className='deploy-link' target="_blank" rel="noreferrer" href={props.deploy}>{props.name}</a>
+                <a className='repo-link' target="_blank" rel="noreferrer" href={props.repo}>
                     <img className='github-logo' src={github} alt="github repo" />
                 </a>
             </div>
